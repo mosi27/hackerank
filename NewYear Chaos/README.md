@@ -40,8 +40,64 @@
 
 <p><b>Sample Input
 </b></p>
-<img src="https://user-images.githubusercontent.com/18205729/124789628-17927880-df68-11eb-838d-066759e0c7cd.png" alt="Sample Input"/>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+<div class="tg-wrap"><table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">STDIN</th>
+    <th class="tg-0lax">FUNCTION</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">t = 2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">n = 5</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2 1 5 3 4 </td>
+    <td class="tg-0lax">q = [2, 1, 4, 3, 4] </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">n = 5</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2 1 5 3 4 </td>
+    <td class="tg-0lax">q = [2, 5, 1, 3, 4] </td>
+  </tr>
+</tbody>
+</table></div>
 
 <p><b>Sample Output
 </b></p>
-<img src="https://user-images.githubusercontent.com/18205729/124789678-22e5a400-df68-11eb-9dbf-bb7e996e06d7.png" alt="Sample Output" />
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+<div class="tg-wrap"><table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">3</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Too chaotic&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table></div>
