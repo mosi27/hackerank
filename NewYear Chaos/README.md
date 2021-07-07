@@ -40,8 +40,8 @@
 
 <p><b>Sample Input
 </b></p>
-![image](https://user-images.githubusercontent.com/18205729/124789628-17927880-df68-11eb-838d-066759e0c7cd.png)
+<img src="https://user-images.githubusercontent.com/18205729/124789628-17927880-df68-11eb-838d-066759e0c7cd.png" alt="Sample Input"/>
 
 <p><b>Sample Output
 </b></p>
-![image](https://user-images.githubusercontent.com/18205729/124789678-22e5a400-df68-11eb-9dbf-bb7e996e06d7.png)
+<img src="https://user-images.githubusercontent.com/18205729/124789678-22e5a400-df68-11eb-9dbf-bb7e996e06d7.png" alt="Sample Output" />
